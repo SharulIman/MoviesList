@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="titletxt">Title</string>
+    <string name="singertxt">Genre</string>
+    <string name="yeartxt">Year</string>
+    <string name="ratingtxt">Rating</string>
+    <string-array name="ratings_array">
+        <item>G</item>
+        <item>PG</item>
+        <item>PG13</item>
+        <item>NC16</item>
+        <item>M18</item>
+        <item>R21</item>
+    </string-array>
+
+    <string name="insert">INSERT</string>
+    <string name="showlist">SHOW LIST</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+</resources>
